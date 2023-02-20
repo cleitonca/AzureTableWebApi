@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "IfQK3rm8/f8Q14TS+X+9D8vKNyoCvE6/ZG2rUc9+IAhlWcZNDX502uGmUtZN/6loQiphbISjnX8+LNljFBTIRw==",
+  "success": true,
+  "projectFilePath": "D:\\Estudo de Desenvolvimento\\CSharp\\AzureTableWebApi\\AzureTableWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Cleiton\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
